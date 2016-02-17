@@ -1,0 +1,172 @@
+<airports>
+<airport>
+  <airportCode>LNK</airportCode>
+  <name>Lincoln Municipal</name>
+  <address>
+    <street>2400 W Adams St</street>
+    <city> Lincoln</city>
+    <ZIP>68524</ZIP>
+    <country>USA</country>
+    <state> NE</state>
+  </address>
+  <latDegs>40</latDegs>
+  <latMins>50</latMins>
+  <longDegs>96</longDegs>
+  <longMins>40</longMins>
+  <passengerFacilityFee>0.0</passengerFacilityFee>
+  <location>40°N50‘’96°W40‘’</location>
+</airport>
+<airport>
+  <airportCode>ORD</airportCode>
+  <name>Chicago O&apos;Hare International</name>
+  <address>
+    <street>10000 W O&apos;Hare Ave</street>
+    <city> Chicago</city>
+    <ZIP> 60666</ZIP>
+    <country>IL</country>
+    <state> IL</state>
+  </address>
+  <latDegs>41</latDegs>
+  <latMins>50</latMins>
+  <longDegs>87</longDegs>
+  <longMins>37</longMins>
+  <passengerFacilityFee>4.5</passengerFacilityFee>
+  <location>41°N50‘’87°W37‘’</location>
+</airport>
+<airport>
+  <airportCode>MDW</airportCode>
+  <name>Chicago Midway International</name>
+  <address>
+    <street>5700 S Cicero Ave</street>
+    <city> Chicago</city>
+    <ZIP> 60638</ZIP>
+    <country>USA</country>
+    <state> IL</state>
+  </address>
+  <latDegs>41</latDegs>
+  <latMins>50</latMins>
+  <longDegs>87</longDegs>
+  <longMins>37</longMins>
+  <passengerFacilityFee>4.5</passengerFacilityFee>
+  <location>41°N50‘’87°W37‘’</location>
+</airport>
+<airport>
+  <airportCode>JFK</airportCode>
+  <name>John F. Kennedy International</name>
+  <address>
+    <street>JFK Expy &amp; S Cargo Rd</street>
+    <city>Jamaica</city>
+    <ZIP>11430</ZIP>
+    <country>USA</country>
+    <state>NY</state>
+  </address>
+  <latDegs>40</latDegs>
+  <latMins>47</latMins>
+  <longDegs>73</longDegs>
+  <longMins>58</longMins>
+  <passengerFacilityFee>4.5</passengerFacilityFee>
+  <location>40°N47‘’73°W58‘’</location>
+</airport>
+<airport>
+  <airportCode>PHX</airportCode>
+  <name>Phoenix Sky Harbor International</name>
+  <address>
+    <street>3400 E Sky Harbor Blvd</street>
+    <city>Phoenix</city>
+    <ZIP>85034</ZIP>
+    <country>USA</country>
+    <state>AZ</state>
+  </address>
+  <latDegs>33</latDegs>
+  <latMins>29</latMins>
+  <longDegs>112</longDegs>
+  <longMins>4</longMins>
+  <passengerFacilityFee>4.5</passengerFacilityFee>
+  <location>33°N29‘’112°W4‘’</location>
+</airport>
+<airport>
+  <airportCode>LAX</airportCode>
+  <name>Los Angeles International Airport</name>
+  <address>
+    <street>1 World Way</street>
+    <city> Los Angeles</city>
+    <ZIP>90045</ZIP>
+    <country>USA</country>
+    <state>CA</state>
+  </address>
+  <latDegs>34</latDegs>
+  <latMins>3</latMins>
+  <longDegs>118</longDegs>
+  <longMins>15</longMins>
+  <passengerFacilityFee>4.5</passengerFacilityFee>
+  <location>34°N3‘’118°W15‘’</location>
+</airport>
+<airport>
+  <airportCode>SJC</airportCode>
+  <name>San Jose International Airport</name>
+  <address>
+    <street>1701 Airport Blvd</street>
+    <city> San Jose</city>
+    <ZIP>95110</ZIP>
+    <country>USA</country>
+    <state>CA</state>
+  </address>
+  <latDegs>37</latDegs>
+  <latMins>20</latMins>
+  <longDegs>121</longDegs>
+  <longMins>53</longMins>
+  <passengerFacilityFee>4.5</passengerFacilityFee>
+  <location>37°N20‘’121°W53‘’</location>
+</airport>
+<airport>
+  <airportCode>ATL</airportCode>
+  <name>Hartsfield Jackson Atlanta International Airport</name>
+  <address>
+    <street>6000 N Terminal Pkwy</street>
+    <city>Atlanta</city>
+    <ZIP>30320</ZIP>
+    <country>USA</country>
+    <state>GA</state>
+  </address>
+  <latDegs>33</latDegs>
+  <latMins>45</latMins>
+  <longDegs>84</longDegs>
+  <longMins>23</longMins>
+  <passengerFacilityFee>4.5</passengerFacilityFee>
+  <location>33°N45‘’84°W23‘’</location>
+</airport>
+<airport>
+  <airportCode>DEN</airportCode>
+  <name>Denver International Airport</name>
+  <address>
+    <street>8500 Pea Blvd</street>
+    <city>Denver</city>
+    <ZIP>80249</ZIP>
+    <country>USA</country>
+    <state>CO</state>
+  </address>
+  <latDegs>39</latDegs>
+  <latMins>45</latMins>
+  <longDegs>105</longDegs>
+  <longMins>0</longMins>
+  <passengerFacilityFee>4.5</passengerFacilityFee>
+  <location>39°N45‘’105°W0‘’</location>
+</airport>
+<airport>
+  <airportCode>MSP</airportCode>
+  <name>Minneapolis Saint Paul International Airport</name>
+  <address>
+    <street>4300 Glumack Drive</street>
+    <city>St. Paul</city>
+    <ZIP>55111</ZIP>
+    <country>USA</country>
+    <state>MN</state>
+  </address>
+  <latDegs>44</latDegs>
+  <latMins>59</latMins>
+  <longDegs>93</longDegs>
+  <longMins>14</longMins>
+  <passengerFacilityFee>4.5</passengerFacilityFee>
+  <location>44°N59‘’93°W14‘’</location>
+</airport>
+</airports>

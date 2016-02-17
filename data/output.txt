@@ -1,0 +1,86 @@
+Executive Summary Report
+=========================
+Invoice         Customer                                      SalesPerson                                                  Fees                           Taxes      Discounts  Total      
+
+
+
+Individual Invoice Detail Reports
+==================================================
+======================================================================================================================
+
+
+
+INV001
+--------------------------------------------------------------------------------------------------------
+AIR America                                                                            PNR
+IssueDate: Aug 10,2015                                                              JDYS37
+--------------------------------------------------------------------------------------------------------
+FLIGHT INFORMATION
+Day,Date        Flight     Class   DepartureCity and Time         ArrivalCity and Time          Aircraft             
+Fri,25Sep15     NA2390     EC       Sacramento,  Ca                Honolulu,  HI                CJR1900              
+                                   (SMF) 9:15AM                   (HNL) 11:35AM                                      
+            Traveler                       Age     SeatNO    
+             Young, Brett                  25      20A       
+            Brown, Mark                    38      20B       
+            null,null                      21      11A       
+                 *CareNeeded 
+--------------------------------------------------------------------------------------------------------
+CUSTOMER INFORMATION
+  Mr Andrew Smith (F001)
+  [Corporate]
+  Cox,  Joe
+   120 Washington Ave
+   Atlanta  GA  64303 USA
+Salesperson: Hall, Ryan 
+--------------------------------------------------------------------------------------------------------
+FARES AND SERVICES
+Code       Item                                                                      SubTotal        Tax      Total 
+1235       StandardTicket(EC) SMF to HNL (133.63 miles)                       $        60.14 $     46.81      $  106.95     
+           (3 units @ $20.05/unit)                                           
+r034       Insurance StateFarm(21-60)                                          $        26.06 $   1.04   $  27.1         
+           (3 units @ $0.065 perMile x 133.63 miles)                         
+fa8u       Baggage (3 unit @ $25.00 for 1st and $25 onwards)                   $        95.00 $   3.80   $  98.80        
+fa8u       Special Assisstance for [Brown,  Mark]PrioritySeating               $            0 $   0      $  0            
+                                                                              ====================================
+SubTotals                                                                      $        228.0 $   51.65  $  232.85       
+Discount DISCOUNT ( 12.00% of SUBTOTAL )                                                                             $   -27.36       
+Additional Fees                                                                                               $  40.0         
+27.360480874855185
+TOTAL                                                                                                    $  269.78       
+INV002
+--------------------------------------------------------------------------------------------------------
+AIR America                                                                            PNR
+IssueDate: Aug 22,2015                                                              977CLE
+--------------------------------------------------------------------------------------------------------
+FLIGHT INFORMATION
+Day,Date        Flight     Class   DepartureCity and Time         ArrivalCity and Time          Aircraft             
+Fri,25Sep15     NA2390     EC       Sacramento,  Ca                Honolulu,  HI                CJR1900              
+                                   (SMF) 9:15AM                   (HNL) 11:35AM                                      
+            Traveler                       Age     SeatNO    
+             Young, Brett                  25      20A       
+            Brown, Mark                    38      20B       
+            null,null                      21      11A       
+                 *CareNeeded 
+--------------------------------------------------------------------------------------------------------
+CUSTOMER INFORMATION
+  Mr Benjamin Johnson (F005)
+  [General]
+   Hartley,  Todd
+   N. Cotner Street
+   Fort Collins  CO 69432 USA
+Salesperson:  Davis, Kyle 
+--------------------------------------------------------------------------------------------------------
+FARES AND SERVICES
+Code       Item                                                                      SubTotal        Tax      Total 
+1235       StandardTicket(EC) SMF to HNL (133.63 miles)                       $        60.14 $     46.81      $  106.95     
+           (3 units @ $20.05/unit)                                           
+r034       Insurance StateFarm(21-60)                                          $        26.06 $   1.04   $  27.1         
+           (3 units @ $0.065 perMile x 133.63 miles)                         
+fa8u       Baggage (3 unit @ $25.00 for 1st and $25 onwards)                   $        95.00 $   3.80   $  98.80        
+x39t       Special Assisstance for [Brown,  Mark]PrioritySeating               $            0 $   0      $  0            
+                                                                              ====================================
+SubTotals                                                                      $        228.0 $   51.65  $  232.85       
+Discount ( None )                                                                              $   0.0          
+Additional Fees                                                                                               $  0.0          
+0.0
+TOTAL                                                                                                    $  284.5        

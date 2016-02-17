@@ -1,0 +1,66 @@
+<customers>
+<com.airamerica.GeneralCustomer>
+  <customerCode>C001</customerCode>
+  <name>Cinco Consultants</name>
+  <type>C</type>
+  <airlineMiles>0</airlineMiles>
+  <tax defined-in="cusotmer">0.0</tax>
+  <tax>0.0</tax>
+</com.airamerica.GeneralCustomer>
+<com.airamerica.GeneralCustomer>
+  <customerCode>C002</customerCode>
+  <name>Stark Associates</name>
+  <type>G</type>
+  <airlineMiles>12500</airlineMiles>
+  <tax defined-in="cusotmer">0.0</tax>
+  <tax>0.0</tax>
+</com.airamerica.GeneralCustomer>
+<com.airamerica.GeneralCustomer>
+  <customerCode>C003</customerCode>
+  <name>United States Postal Service</name>
+  <type>V</type>
+  <airlineMiles>36000</airlineMiles>
+  <tax defined-in="cusotmer">0.0</tax>
+  <tax>0.0</tax>
+</com.airamerica.GeneralCustomer>
+<com.airamerica.GeneralCustomer>
+  <customerCode>C004</customerCode>
+  <name>Mr Steve Odelay</name>
+  <type>C</type>
+  <airlineMiles>4170000</airlineMiles>
+  <tax defined-in="cusotmer">0.0</tax>
+  <tax>0.0</tax>
+</com.airamerica.GeneralCustomer>
+<com.airamerica.GeneralCustomer>
+  <customerCode>C005</customerCode>
+  <name>Vandelay Industries</name>
+  <type>G</type>
+  <airlineMiles>0</airlineMiles>
+  <tax defined-in="cusotmer">0.0</tax>
+  <tax>0.0</tax>
+</com.airamerica.GeneralCustomer>
+<com.airamerica.GeneralCustomer>
+  <customerCode>C006</customerCode>
+  <name>University of Nebaska-Lincoln</name>
+  <type>V</type>
+  <airlineMiles>6857441</airlineMiles>
+  <tax defined-in="cusotmer">0.0</tax>
+  <tax>0.0</tax>
+</com.airamerica.GeneralCustomer>
+<com.airamerica.GeneralCustomer>
+  <customerCode>C007</customerCode>
+  <name>Venture Club</name>
+  <type>C</type>
+  <airlineMiles>0</airlineMiles>
+  <tax defined-in="cusotmer">0.0</tax>
+  <tax>0.0</tax>
+</com.airamerica.GeneralCustomer>
+<com.airamerica.GeneralCustomer>
+  <customerCode>C008</customerCode>
+  <name>Mr Gregory Smith</name>
+  <type>G</type>
+  <airlineMiles>101111</airlineMiles>
+  <tax defined-in="cusotmer">0.0</tax>
+  <tax>0.0</tax>
+</com.airamerica.GeneralCustomer>
+</customers>
