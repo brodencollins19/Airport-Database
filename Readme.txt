@@ -1,4 +1,4 @@
--This program was a class excerise to build an invoice system for an airline company. It is a 3-tiered Java application compirsed of:
+-This program was a class excerise to build an invoice system for an airline company. It is a 3-tiered Java application comprised of:
     1. An upper level Java application
     
     2. A JDBC database interface
