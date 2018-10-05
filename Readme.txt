@@ -8,5 +8,3 @@
 - The main entry point can be found at: src/unl/cse/assignments/InvoiceReport.java
 
 - The program can import data both from the database and from flat data text files. Test data has been inserted in both the SQL file and the text files for convenience.
-
-- Hope you enjoy!!!
